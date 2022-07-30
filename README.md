@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jiajie-he
+- 👋 Hi, I’m Jiajie He
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning Object Relational Mapping
 - 💞️ I’m looking to collaborate on web development projects
